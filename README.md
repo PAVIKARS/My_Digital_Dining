@@ -1,1 +1,2 @@
 # My_Digital_Dining
+My Digital Dining - A sleek web platform designed with CSS and HTML, revolutionizing your dining experience! Easily order your favorite food from the comfort of your home with doorstep delivery. We cater to your special events with our top-notch catering service. Enjoy the convenience of bulk ordering for larger gatherings and relish the same exceptional quality in our individual home deliveries. Embrace the digital era of dining and savor every bite with us!
